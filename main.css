@@ -1,3 +1,7 @@
-.navbar navbar-expand-lg navbar-light bg-light{
-    background-color: red;
+.nav-item a:hover{
+    background-color: skyblue;
+}
+
+.nav-item{
+    padding-left: 80px;
 }
